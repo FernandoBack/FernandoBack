@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, JAVA Script e studying systems analysis and development
 - 💞️ I’m looking to collaborate on as far as I can
 - 📫 How to reach me fernandoback@gmail.com
-- 😄 Pronouns: Back
+- 😄 Pronouns: Sekoone
 - ⚡ Fun fact: What the eyes don't see falls to the test
 
 <!---
